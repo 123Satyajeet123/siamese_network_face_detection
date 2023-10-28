@@ -1,6 +1,6 @@
 # Face Detection with Siamese Network
 
-![Project Image][1_23mikUF3HBJGUqrX7tMKQQ](https://github.com/123Satyajeet123/siamese_network_face_detection/assets/103361055/78df4ba9-01f4-4e4a-afa7-4a7cbba33e75)
+[1_23mikUF3HBJGUqrX7tMKQQ](https://github.com/123Satyajeet123/siamese_network_face_detection/assets/103361055/78df4ba9-01f4-4e4a-afa7-4a7cbba33e75)
 
 
 Face detection using a Siamese network with a pretrained ResNet model and implemented triplet loss.
